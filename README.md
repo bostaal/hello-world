@@ -1,2 +1,2 @@
 # hello-world
-Just another respository
+Embarking on new adventures...
